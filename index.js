@@ -7,5 +7,5 @@ yesBtn.addEventListener('click',function () {
 const noBtn = document.querySelector('#noBtn')
 
 noBtn.addEventListener('click',function () {
-    alert('si no estas molesta por que ya no hablamos,Ya son 4 dias😔 estraño a mi dueña♡')
+    alert('si no estas molesta por que ya no hablamos,Ya son 4 dias😔 extraño a mi dueña♡')
 });
